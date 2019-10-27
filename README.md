@@ -7,3 +7,7 @@ https://stackoverflow.com/questions/8585090/algorithm-for-crossword-puzzle-with-
 ## Complex test case
 
 http://www.australiancrosswords.com.au/WPblog/the-stickler-weekly-19-solution/
+
+## Other solution
+
+https://github.com/simarjit-singh/crossword
