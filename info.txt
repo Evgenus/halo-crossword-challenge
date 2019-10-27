@@ -1,0 +1,19 @@
+# Halo Crossword Coding Challenge
+
+Hello, and thank you for taking the Halo Developer Coding Challenge!  This
+challenge is to implement a crossword puzzle solver.  Specifically, the inputs
+will be:
+    - An Empty Crossword Board
+    - A Set of Words
+And the output should be:
+    - A Valid Solution to the Empty Crossword Puzzle, using the Given Set of Words
+
+There is one sample input in the crossword.py file. Latency should be taken into
+account.  Readability should also be taken into account.  While not required,
+please feel free to use classes and tests to help structure your solver.  Please use
+python version 2.7, as that is the version that our servers are running.
+
+If you have any questions, please consult your recruiter.
+
+Best,
+The Halo Team
